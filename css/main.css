@@ -32,6 +32,7 @@ body{
     text-decoration: none;
     font-family: 'DidactGothic';
     background-color: #f2f2f2;
+    overflow: hidden;
 }
 
 #firstSection{
@@ -566,7 +567,7 @@ footer{
         justify-content: center;
         width: 250px;
         height: auto;
-        padding-top: 50px;
+        padding-top: 25px;
     }
     
     .aboutHead{
@@ -589,7 +590,8 @@ footer{
         font-size: 11px;
         font-family: 'DidactGothic';
         color: #ffffff;
-        text-indent: 30px;
+        line-height: 14px;
+        word-spacing: 1.5px;
     }
 
     #thirdSection{
